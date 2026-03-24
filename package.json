@@ -1,0 +1,22 @@
+{
+  "name": "agent-scanner",
+  "version": "0.1.0",
+  "description": "AI Agent Industry Radar — research-grade daily intelligence on the AI agent ecosystem",
+  "type": "module",
+  "scripts": {
+    "radar:run": "tsx src/adapters/cli/commands.ts run",
+    "radar:expand": "tsx src/adapters/cli/commands.ts expand",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

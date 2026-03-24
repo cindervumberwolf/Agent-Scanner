@@ -1,0 +1,110 @@
+[
+  {
+    "sourceName": "Anthropic Blog",
+    "sourceUrl": "https://www.anthropic.com/blog",
+    "title": "Anthropic Launches MCP Toolkit v2 with Native Agent Orchestration",
+    "url": "https://www.anthropic.com/blog/mcp-toolkit-v2",
+    "publishedAt": "2026-03-22",
+    "rawText": "Anthropic today released Model Context Protocol Toolkit v2, a major upgrade enabling native multi-agent orchestration. The new version introduces persistent tool sessions, cross-agent memory sharing, and a unified permission model. Early enterprise adopters report 40% reduction in agent integration time. MCP v2 is backward-compatible and available as an open standard.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "OpenAI Blog",
+    "sourceUrl": "https://openai.com/blog",
+    "title": "Introducing Codex Agent: Autonomous Software Engineering in the Cloud",
+    "url": "https://openai.com/blog/codex-agent",
+    "publishedAt": "2026-03-21",
+    "rawText": "OpenAI launches Codex Agent, a cloud-based autonomous coding system that can plan, write, test, and deploy code with minimal human oversight. Codex Agent operates inside sandboxed cloud environments and supports multi-repository workflows. Initial benchmarks show it resolves 72% of real-world GitHub issues end-to-end. Available to ChatGPT Pro and Enterprise users.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "Google AI Blog",
+    "sourceUrl": "https://blog.google/technology/ai",
+    "title": "Gemini 2.5 Pro: New Benchmarks in Agentic Task Completion",
+    "url": "https://blog.google/gemini-2-5-pro-agentic",
+    "publishedAt": "2026-03-20",
+    "rawText": "Google DeepMind releases Gemini 2.5 Pro with significantly improved agentic capabilities. The model achieves state-of-the-art results on SWE-bench, WebArena, and a new internal Agent Reliability benchmark. Key improvements include 2M token context, native tool use with structured outputs, and built-in planning with self-correction. Available through Vertex AI and AI Studio.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com",
+    "title": "LangChain Acquires Observability Startup to Unify Agent Monitoring",
+    "url": "https://techcrunch.com/2026/03/langchain-acquisition",
+    "publishedAt": "2026-03-21",
+    "rawText": "LangChain has acquired agent observability startup TraceLoop for an undisclosed sum, aiming to build a unified monitoring and debugging platform for LLM-powered agents. The acquisition consolidates LangSmith's tracing capabilities with TraceLoop's production monitoring features. LangChain CEO Harrison Chase says the combined platform will offer end-to-end visibility from development to production.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "Microsoft AI Blog",
+    "sourceUrl": "https://blogs.microsoft.com/ai",
+    "title": "Copilot Studio Now Supports Multi-Agent Workflows with Handoff Protocol",
+    "url": "https://blogs.microsoft.com/copilot-studio-multi-agent",
+    "publishedAt": "2026-03-19",
+    "rawText": "Microsoft announces native multi-agent workflow support in Copilot Studio, allowing enterprises to build agent teams that collaborate through a new Handoff Protocol. Agents can delegate subtasks, share context, and coordinate through structured message passing. The feature integrates with Microsoft 365, Dynamics, and Azure AI Foundry. Available in public preview for enterprise customers.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog",
+    "title": "Open Agent Arena: A Community Benchmark for Evaluating AI Agents",
+    "url": "https://huggingface.co/blog/open-agent-arena",
+    "publishedAt": "2026-03-20",
+    "rawText": "Hugging Face launches Open Agent Arena, an open-source benchmark for evaluating AI agents on real-world tasks across coding, research, and data analysis. The benchmark includes 500 curated tasks with human-verified ground truth. Community members can submit their agents and compare results on a public leaderboard. Initial results show open-source models closing the gap with proprietary solutions on structured tasks.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "AWS Blog",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning",
+    "title": "AWS Bedrock Adds Agent-to-Agent Communication Protocol",
+    "url": "https://aws.amazon.com/blogs/bedrock-agent-protocol",
+    "publishedAt": "2026-03-18",
+    "rawText": "AWS announces a new agent-to-agent communication protocol for Amazon Bedrock, enabling agents built by different teams to discover, authenticate, and collaborate with each other. The protocol uses a service mesh architecture and supports both synchronous and asynchronous interaction patterns. AWS claims 200+ enterprise customers are already testing the feature in private preview.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "Salesforce Newsroom",
+    "sourceUrl": "https://www.salesforce.com/news",
+    "title": "Salesforce Reports 40% Quarter-over-Quarter Growth in Agentforce Deployments",
+    "url": "https://www.salesforce.com/news/agentforce-growth-q1-2026",
+    "publishedAt": "2026-03-22",
+    "rawText": "Salesforce reports that enterprise deployments of its Agentforce platform grew 40% quarter-over-quarter, with over 3,000 companies now running autonomous agents in production CRM workflows. Average revenue per Agentforce customer increased 25%. CEO Marc Benioff described autonomous agents as the company's fastest-growing product line since the platform shift to cloud.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "The Information",
+    "sourceUrl": "https://www.theinformation.com",
+    "title": "CrewAI Raises $50M Series B for Multi-Agent Orchestration Platform",
+    "url": "https://www.theinformation.com/crewai-series-b",
+    "publishedAt": "2026-03-21",
+    "rawText": "CrewAI has raised a $50M Series B led by Andreessen Horowitz to scale its multi-agent orchestration platform. The company says annual recurring revenue grew 5x since launching its enterprise tier. CrewAI's platform allows non-technical users to design and deploy teams of specialized AI agents. The round values the company at approximately $400M.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "EU Commission",
+    "sourceUrl": "https://ec.europa.eu/commission",
+    "title": "EU AI Act Article 52 Enforcement Begins: Agent Transparency Requirements Take Effect",
+    "url": "https://ec.europa.eu/ai-act-article-52-enforcement",
+    "publishedAt": "2026-03-17",
+    "rawText": "The European Commission confirms that Article 52 transparency requirements under the EU AI Act are now enforceable. AI agents deployed in the EU must clearly disclose their non-human nature to users, maintain interaction logs, and provide human escalation paths. Companies face fines of up to 3% of global revenue for non-compliance. Several major US tech companies have begun implementing compliance measures.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "Stripe Blog",
+    "sourceUrl": "https://stripe.com/blog",
+    "title": "Stripe Launches Agent Commerce SDK for Autonomous Purchasing Workflows",
+    "url": "https://stripe.com/blog/agent-commerce-sdk",
+    "publishedAt": "2026-03-20",
+    "rawText": "Stripe introduces the Agent Commerce SDK, enabling AI agents to securely initiate payments, manage subscriptions, and handle refunds on behalf of users. The SDK includes built-in spending limits, approval flows, and audit trails. Stripe says the SDK addresses a growing demand as enterprises deploy purchasing agents that need programmatic access to payment infrastructure.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  },
+  {
+    "sourceName": "NVIDIA Developer Blog",
+    "sourceUrl": "https://developer.nvidia.com/blog",
+    "title": "NVIDIA Releases NIM Agent Blueprints for Enterprise Deployment",
+    "url": "https://developer.nvidia.com/blog/nim-agent-blueprints",
+    "publishedAt": "2026-03-19",
+    "rawText": "NVIDIA releases NIM Agent Blueprints, a set of pre-built reference architectures for deploying AI agents in enterprise environments. Blueprints cover RAG agents, customer service agents, and code generation agents, all optimized for NVIDIA GPU infrastructure. Each blueprint includes model configurations, guardrails, and monitoring dashboards. Available through NVIDIA AI Enterprise.",
+    "fetchedAt": "2026-03-24T02:00:00Z"
+  }
+]
